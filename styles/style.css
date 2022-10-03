@@ -1,0 +1,20 @@
+header {
+    background-color: beige;
+}
+ul {
+    background-color: aliceblue;
+}
+section {
+    background-color: antiquewhite;
+}
+
+img {
+    width: 300px;
+}
+
+.reviews{
+    background-color: whitesmoke;
+}
+footer {
+    background-color: azure;
+}
